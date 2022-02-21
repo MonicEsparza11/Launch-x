@@ -1,0 +1,2 @@
+El archivo Kata 3- explicación es un archivo donde iba siguiendo la explicación de los operadores es
+para aprendizaje, la kata real es "Kata 3- ejercicio"

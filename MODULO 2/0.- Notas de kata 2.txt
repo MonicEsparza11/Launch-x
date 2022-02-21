@@ -1,0 +1,5 @@
+1.- El comando para instalar el entorno virtual funcionó con: "python -m venv env" sin el 3.
+
+2.- Se crearon carpetas de este entorno virtual en carpeta local de la laptop.
+
+3.- Los comandos ejecutados se subrayaron con rosa. 
